@@ -1,0 +1,5 @@
+{
+  "model": "gpt-3.5-turbo-16k",
+  "app_description": "Create a django application for a blog api",
+  "max_steps": 200
+}

@@ -1,0 +1,9 @@
+openai
+GitPython
+pytest
+python-dotenv
+chromadb
+tiktoken
+tree_sitter
+langchain
+networkx
